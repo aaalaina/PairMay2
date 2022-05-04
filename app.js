@@ -115,7 +115,7 @@ function anagramChecker(hello, goodbye) {
         console.log(true);
     } else {
         console.log(false);
-    }
+    } 
 }
 anagramChecker("dog", "god");
 anagramChecker("medium", "hard");
